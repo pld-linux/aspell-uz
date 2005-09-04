@@ -1,14 +1,14 @@
 Summary:	Uzbek dictionary for aspell
 Summary(pl):	S³ownik uzbecki dla aspella
 Name:		aspell-uz
-Version:	0.02
-%define	subv	1
+Version:	0.04
+%define	subv	0
 Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/uz/aspell6-uz-%{version}-%{subv}.tar.bz2
-# Source0-md5:	02145328b6839d62d8f2e62e6a620a69
+# Source0-md5:	8f75fe924f366e6dedb0a7a57767067d
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
 Requires:	aspell >= 3:0.60
