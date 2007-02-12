@@ -1,5 +1,5 @@
 Summary:	Uzbek dictionary for aspell
-Summary(pl.UTF-8):   Słownik uzbecki dla aspella
+Summary(pl.UTF-8):	Słownik uzbecki dla aspella
 Name:		aspell-uz
 Version:	0.6
 %define	subv	0
