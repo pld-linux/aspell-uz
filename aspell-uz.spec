@@ -1,5 +1,5 @@
 Summary:	Uzbek dictionary for aspell
-Summary(pl):	S≥ownik uzbecki dla aspella
+Summary(pl.UTF-8):   S≈Çownik uzbecki dla aspella
 Name:		aspell-uz
 Version:	0.6
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Uzbek dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik uzbecki (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik uzbecki (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-uz-%{version}-%{subv}
